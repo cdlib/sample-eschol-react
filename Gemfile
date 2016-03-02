@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'configparser'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'nokogiri'
+gem 'mysql2'
+gem 'sequel'
+gem 'unindent'

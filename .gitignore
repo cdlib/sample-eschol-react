@@ -1,0 +1,11 @@
+.sass-cache
+Gemfile.lock
+bin
+gems
+.bundle
+.hg
+.hgignore
+bower_components
+node_modules
+public/js
+public/css
